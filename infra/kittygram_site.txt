@@ -1,0 +1,5 @@
+IP: 62.84.120.31;
+name_taski: https://django-training.ru;
+name_kittygram: https://django-training.online;
+login: mexx;
+password: leopold;
